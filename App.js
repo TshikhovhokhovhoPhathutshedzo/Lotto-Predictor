@@ -69,3 +69,4 @@ Commit #67 | Meme: It's not a bug, it's an undocumented feature.
 Commit #68 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #69 | Meme: To understand recursion, you must first understand recursion.
 Commit #70 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #71 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
