@@ -58,3 +58,4 @@ Commit #56 | Meme: There are 10 types of people: those who understand binary, an
 Commit #57 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #58 | Meme: Real programmers count from 0.
 Commit #59 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #60 | Meme: There are 10 types of people: those who understand binary, and those who don't.
