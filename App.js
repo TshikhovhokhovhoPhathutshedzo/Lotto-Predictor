@@ -98,3 +98,4 @@ Commit #96 | Meme: Software and cathedrals are much the same – first we build 
 Commit #97 | Meme: It's not a bug, it's an undocumented feature.
 Commit #98 | Meme: To understand recursion, you must first understand recursion.
 Commit #99 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #100 | Meme: There are 10 types of people: those who understand binary, and those who don't.
