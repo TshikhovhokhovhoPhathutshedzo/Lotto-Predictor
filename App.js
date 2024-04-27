@@ -35,3 +35,4 @@ Commit #33 | Meme: In case of fire: git commit, git push, leave building.
 Commit #34 | Meme: Deleting code is better than writing code.
 Commit #35 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #36 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #37 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
