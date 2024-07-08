@@ -92,3 +92,4 @@ Commit #90 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #91 | Meme: It's not a bug, it's an undocumented feature.
 Commit #92 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #93 | Meme: Real programmers count from 0.
+Commit #94 | Meme: Works on my machine! ¯\_(ツ)_/¯
