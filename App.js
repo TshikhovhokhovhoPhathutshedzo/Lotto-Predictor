@@ -16,3 +16,4 @@ Commit #14 | Meme: It's not a bug, it's an undocumented feature.
 Commit #15 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #16 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #17 | Meme: Real programmers count from 0.
+Commit #18 | Meme: It's not a bug, it's an undocumented feature.
