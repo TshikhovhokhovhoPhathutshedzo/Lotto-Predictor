@@ -52,3 +52,4 @@ Commit #50 | Meme: 99 little bugs in the code. Take one down, patch it around. 1
 Commit #51 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #52 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #53 | Meme: In case of fire: git commit, git push, leave building.
+Commit #54 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
