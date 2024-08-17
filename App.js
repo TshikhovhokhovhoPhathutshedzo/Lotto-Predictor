@@ -73,3 +73,4 @@ Commit #71 | Meme: Programming is 10% writing code and 90% understanding why it'
 Commit #72 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #73 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #74 | Meme: There's no place like 127.0.0.1
+Commit #75 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
