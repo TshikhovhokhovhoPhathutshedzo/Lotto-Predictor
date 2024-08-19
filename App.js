@@ -111,3 +111,4 @@ Commit #109 | Meme: There's no place like 127.0.0.1
 Commit #110 | Meme: There's no place like 127.0.0.1
 Commit #111 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #112 | Meme: There's no place like 127.0.0.1
+Commit #113 | Meme: Why do Java developers wear glasses? Because they don't C#.
