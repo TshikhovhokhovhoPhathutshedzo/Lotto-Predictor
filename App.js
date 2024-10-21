@@ -56,3 +56,4 @@ Commit #54 | Meme: Programming is 10% writing code and 90% understanding why it'
 Commit #55 | Meme: It's not a bug, it's an undocumented feature.
 Commit #56 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #57 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #58 | Meme: Real programmers count from 0.
