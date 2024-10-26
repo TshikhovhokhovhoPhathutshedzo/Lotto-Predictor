@@ -80,3 +80,4 @@ Commit #78 | Meme: 99 little bugs in the code. Take one down, patch it around. 1
 Commit #79 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #80 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #81 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #82 | Meme: There are 10 types of people: those who understand binary, and those who don't.
