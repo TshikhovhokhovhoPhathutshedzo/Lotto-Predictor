@@ -46,3 +46,4 @@ Commit #44 | Meme: Software and cathedrals are much the same – first we build 
 Commit #45 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #46 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #47 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #48 | Meme: Hide and seek champion since 1958: ';' in C/C++
