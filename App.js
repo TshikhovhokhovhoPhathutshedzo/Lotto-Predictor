@@ -96,3 +96,4 @@ Commit #94 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #95 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #96 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #97 | Meme: It's not a bug, it's an undocumented feature.
+Commit #98 | Meme: To understand recursion, you must first understand recursion.
